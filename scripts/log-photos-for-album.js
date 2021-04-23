@@ -4,7 +4,7 @@ const getPhotosForAlbum = require('../services/get-photos-for-album');
 getPhotosForAlbum(args.albumId)
     .then((photos) => {
         photos.forEach((photo) => {
-            console.info(`${photo.id} ${photo.title}`)
+            console.info(`[${photo.id}] ${photo.title}`)
         })
     })
     .catch((error) => {
