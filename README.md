@@ -1,6 +1,6 @@
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
-Used :point_up: as starting point for UI project.
+Used above template as a starting point for UI project.
 
 ### Running locally
 

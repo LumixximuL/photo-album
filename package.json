@@ -9,6 +9,9 @@
     "log-photos": "node ./scripts/log-photos-for-album.js"
   },
   "dependencies": {
+    "@material-ui/core": "4.11.3",
+    "@material-ui/icons": "4.11.2",
+    "@material-ui/lab": "4.0.0-alpha.57",
     "next": "10.1.3",
     "node-fetch": "2.6.1",
     "react": "17.0.1",
