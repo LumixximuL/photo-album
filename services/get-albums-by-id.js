@@ -1,7 +1,7 @@
 import fetch from 'node-fetch';
 
 export default async () => {
-    const response = await fetch('https://jsonplaceholder.typicode.com/photos');
+    const response = await fetch('https://jsonplaceholder.typicode.com/photos', {headers: {'Origin': '*'}});
     const albumsById = {};
 
     if (response.ok) {
