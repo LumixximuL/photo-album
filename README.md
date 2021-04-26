@@ -1,6 +1,6 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Used a starter template for [Learn Next.js](https://nextjs.org/learn) for the UI.
 
-Used above template as a starting point for UI project.
+[Live UI](https://photo-album-nine.vercel.app/) deployed with Vercel.
 
 ### Running locally
 
